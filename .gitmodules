@@ -1,0 +1,9 @@
+[submodule "QQ_Plot"]
+	path = QQ_Plot
+	url = https://github.com/EducationShinyAppTeam/QQ_Plot
+[submodule "Overfitting"]
+	path = Overfitting
+	url = https://github.com/EducationShinyAppTeam/Overfitting
+[submodule "Assumptions"]
+	path = Assumptions
+	url = https://github.com/EducationShinyAppTeam/Assumptions
