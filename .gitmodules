@@ -10,3 +10,6 @@
 [submodule "Variable_Selection"]
 	path = Variable_Selection
 	url = ../Variable_Selection
+[submodule "Logistic_Regression"]
+	path = Logistic_Regression
+	url = ../Logistic_Regression
