@@ -13,3 +13,6 @@
 [submodule "Logistic_Regression"]
 	path = Logistic_Regression
 	url = ../Logistic_Regression
+[submodule "Variance_Inflation_Factor"]
+	path = Variance_Inflation_Factor
+	url = ../Variance_Inflation_Factor
