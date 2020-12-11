@@ -7,8 +7,6 @@
 - [Variable Selection](https://github.com/EducationShinyAppTeam/Variable_Selection)
 - [Variance Inflation Factor](https://github.com/EducationShinyAppTeam/Variance_Inflation_Factor)
 
-
-Variance_Inflation_Factor
 ### Downloading
 This book is separated by chapter into [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules); download this chapter by running the command:
 ```bash
