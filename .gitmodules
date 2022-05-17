@@ -4,12 +4,12 @@
 [submodule "Overfitting"]
 	path = Overfitting
 	url = ../Overfitting
-[submodule "Assumptions"]
-	path = Assumptions
-	url = ../Assumptions
 [submodule "Variable_Selection"]
 	path = Variable_Selection
 	url = ../Variable_Selection
 [submodule "Variance_Inflation_Factor"]
 	path = Variance_Inflation_Factor
 	url = ../Variance_Inflation_Factor
+[submodule "Regression_Assumptions"]
+	path = Regression_Assumptions
+	url = ../Regression_Assumptions
